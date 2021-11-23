@@ -1,0 +1,22 @@
+{
+  "name": "subs-system",
+  "version": "1.0.0",
+  "description": "Szkoła Reacta week 7 REST API: system do wysyłki maili",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "y"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "szkola",
+    "reacta",
+    "subskrypcja"
+  ],
+  "author": "Aleksandra Szczur",
+  "license": "ISC"
+}
